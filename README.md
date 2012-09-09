@@ -1,5 +1,7 @@
 HomeCommander
 =============
+V0.01
+
 (Hungarian)
 
 Jelenlegi állapot: NE TÖLTSD LE
@@ -16,3 +18,9 @@ Használt technológia:
 - Apache2/Python3/MySql
 - Qucik2Wire python api
 - JQuery
+
+Verziók:
+
+V0.01
+-----
+Első commit, semmi sem müxik
